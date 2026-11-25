@@ -1,0 +1,1 @@
+{"description":"One line of awkward robot small talk in an elevator, for make.fun's Two Robots in an Elevator bounty.","engines":{"node":">=22.18"},"license":"MIT","name":"makefun-two-robots-elevator-20261125","private":true,"scripts":{"start":"node main.ts","test":"node --test test.mjs"},"type":"module","version":"1.0.0"}
